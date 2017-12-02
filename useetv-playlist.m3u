@@ -364,6 +364,9 @@ rtp://@239.1.2.185:9084
 #EXTINF:-1,NEWS - [896] Euronews
 rtp://@0.0.0.0
 
+#EXTINF:-1,NEWS - [897] Nat Geo HD
+rtp://@239.1.1.243:9432
+
 
 
 #EXTINF:-1,KIDS - [023] Dunia Anak
